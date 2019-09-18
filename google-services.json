@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093495841319",
+    "firebase_url": "https://la-salle-5bac3.firebaseio.com",
+    "project_id": "la-salle-5bac3",
+    "storage_bucket": "la-salle-5bac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093495841319:android:36767b2d2e2a8232",
+        "android_client_info": {
+          "package_name": "com.blackboard.mosaic.lasalle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093495841319-gfdjr73lqqo0rgmd6d593r6erl588m14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINo4YWY4qpdNtCJztjQHxVTNeSvAV0k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093495841319-gfdjr73lqqo0rgmd6d593r6erl588m14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
